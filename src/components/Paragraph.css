@@ -1,0 +1,27 @@
+.for-ux2{
+    font-size: 13px;
+    border: 2px solid blue;
+    border-radius: 7px;
+    background: blue;
+    color: #e5e2e2;
+    font-family: 'Roboto', sans-serif;
+}
+.for-super2{
+    font-family: 'Roboto', sans-serif;
+}
+h4.for-process {
+    font-size: 45px;
+    
+}
+.MuiGrid-root.main-descr.css-vj1n65-MuiGrid-root {
+    
+    color:#9a9a9a;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+.for-secpara {
+    display: flex;
+    align-items: baseline;
+    justify-content: end;
+    flex-wrap: nowrap;
+}

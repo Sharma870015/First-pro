@@ -1,0 +1,11 @@
+p.foot-p {
+    color: rgb(37, 37, 37);
+    font-family: 'Roboto', sans-serif;
+}
+h5.foot1 {
+    margin-top: 162px;
+    border-top: 1px solid #efeded;
+    padding-top: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: #585555;
+}
