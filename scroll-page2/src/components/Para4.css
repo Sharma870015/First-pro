@@ -1,0 +1,13 @@
+.for-contact{
+    color: rgb(110, 109, 109);
+}
+.for-para4 {
+    padding-right: 45px;
+    margin-top: -9px;
+}
+.for-frpara{
+    display: flex;
+    align-items: baseline;
+    justify-content: end;
+    flex-wrap: nowrap;
+}

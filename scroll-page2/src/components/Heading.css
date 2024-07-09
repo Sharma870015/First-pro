@@ -1,0 +1,16 @@
+.for-ux {
+    font-size: 13px;
+    border: 2px solid blue;
+    border-radius: 7px;
+    background: blue;
+    color: #e5e2e2;
+    font-family: 'Roboto', sans-serif;
+  }
+  .for-h {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 15px;
+    margin-bottom: -56px;
+    font-family: 'Roboto', sans-serif;
+  }
